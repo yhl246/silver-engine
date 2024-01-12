@@ -15,4 +15,12 @@ Git > An open-source command-line-based version-control system for software deve
   Store all files in Github
   Only main branch store the deployable code
   Create a new branch for planned changes
-  
+  Common base branches whil new features are developed -> Both Branches underdoing changes -> When two stream of work are ready to merge, each branch's code is identified as a TIP -> Two tips are merged into a third, combined branch
+
+--  Commit Changes
+    Techniques -> lChoose to commit directly to current branch or create a new branch
+    Best Practics: 
+        Dont end with a period
+        Less than 50 characters,
+        Active Voice
+-- Pull request
